@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Will Thomson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To create a recipe based application that uses javascript to allow the user to navigate options regarding recipes
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://wmt15.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the animate() tag in javascript.
+2. Navigating the DOM tree within the Javascipt Command Panel.
+3. How to edit and define toggle and slow commands within javascript functions.
 
